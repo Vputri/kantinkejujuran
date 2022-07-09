@@ -77,7 +77,7 @@ const Home = () => {
                           <h5 className="card-title name">{edge.node.title}</h5>
                         </div>
                         <div className="card-footer footer">
-                          <a className="text-reset text-decoration-none" href="/comingSoon">LIHAT DETAIL</a>
+                          <a className="text-reset text-decoration-none" href="/comingsoon">LIHAT DETAIL</a>
                         </div>
                       </div>
                     </div>
